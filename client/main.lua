@@ -1,4 +1,4 @@
-local coordsVisible = true
+local coordsVisible = false
 
 function DrawGenericText(text)
 	SetTextColour(186, 186, 186, 255)
