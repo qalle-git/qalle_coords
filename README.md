@@ -2,11 +2,11 @@
 
 [REQUIREMENTS]
   
-* ESX Support
+* NONE, Standalone
   
 [INSTALLATION]
 
-1) CD in your resources folder
+1) Drag the resource in to your [resources] folder
 
-2) Add this in your server.cfg :
+2) Add this in your server.cfg (doesn't matter where)
 ``start qalle_coords``
