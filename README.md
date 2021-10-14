@@ -1,17 +1,16 @@
-# qalle_coords
+# Qalle Coords
 
-[REQUIREMENTS]
-  
-* NONE, Standalone
-  
-[USAGE]
+## Requirements
+No requirements - Fully standalone.
 
-* Type /coords to toggle between showing and not showing the coords.
-* This makes it easier for you to decide where your markers and such will be.
+## Installation
+- Click "Code" > "Download ZIP".
+- Open the zip file.
+- Drag and drop "qalle_coords-master" folder anywhere inside your "resources" folder.
+- Rename "qalle_coords-master" to "qalle_coords" for a neater look.
+- Open your server config file and add `ensure qalle_coords` anywhere.
+- Restart your server or type `ensure qalle_coords` into the console.
+Done!
 
-[INSTALLATION]
-
-1) Drag the resource in to your [resources] folder
-
-2) Add this in your server.cfg (doesn't matter where)
-``start qalle_coords``
+## Usage
+- Open the chat and type `/coords` or open the F8 console and type `coords`.
